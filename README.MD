@@ -13,7 +13,9 @@ Hrjoitustyön tehtävänanto:
 	$ conda activate sklearn-env
 
 # Viimeisin asennettu ympäristö
-	$ conda create -n KO-scikit-learn -c conda-forge scikit-learn pandas jupyter 
+	$ conda create -n KO-scikit-learn -c conda-forge scikit-learn pandas jupyter matplotlib
+
+- matplotlib
 
 #KDD-Prosessi
 1. Datan lähde
