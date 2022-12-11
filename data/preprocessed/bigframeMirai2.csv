@@ -1,4 +1,4 @@
-,duration,orig_bytes,resp_bytes,missed_bytes,orig_pkts,orig_ip_bytes,resp_pkts,proto_icmp,proto_tcp,proto_udp,conn_state_OTH,conn_state_REJ,conn_state_RSTO,conn_state_RSTOS0,conn_state_RSTR,conn_state_S0,conn_state_S1,conn_state_SF,label
+id,duration,orig_bytes,resp_bytes,missed_bytes,orig_pkts,orig_ip_bytes,resp_pkts,proto_icmp,proto_tcp,proto_udp,conn_state_OTH,conn_state_REJ,conn_state_RSTO,conn_state_RSTOS0,conn_state_RSTR,conn_state_S0,conn_state_S1,conn_state_SF,label
 5410560,0.000005,56,0,0.0,2.0,112.0,0.0,1,0,0,1,0,0,0,0,0,0,0,0
 2218089,0.128182,0,0,0.0,4.0,160.0,2.0,0,1,0,0,1,0,0,0,0,0,0,0
 2218519,0.000243,80,0,0.0,2.0,136.0,0.0,1,0,0,1,0,0,0,0,0,0,0,0
